@@ -1,0 +1,13 @@
+ .estilo-lindo{
+    background-color: #4CAF50; /* Color verde de fondo*/
+    color: white; /*texto blanco */
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+ }
+ .estilo-lindo:hover{
+    background-color:#24d11bb5;
+ }
