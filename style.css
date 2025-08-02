@@ -1,13 +1,15 @@
- .estilo-lindo{
-    background-color: #4CAF50; /* Color verde de fondo*/
-    color: white; /*texto blanco */
-    padding: 12px 24px;
-    font-size: 16px;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background-color 0.3s;
- }
- .estilo-lindo:hover{
-    background-color:#24d11bb5;
- }
+*{
+    font-family: 'Montserrat', sans-serif ;
+}
+
+.bg-primary{
+    background-color: #2c3e50 !important;
+}
+
+.progress{
+   background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.progress-bar{
+    background-color: green !important;
+}
